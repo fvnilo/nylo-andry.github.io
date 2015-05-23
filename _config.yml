@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Code it. Understand it.
 locale:           en_US
-url:              
+url:              http://nylo-andry.github.io
 
 
 # Jekyll configuration
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ny Fanilo Andrianjafy
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software developer. Software architecture enthusiast. Functional programming learner. "
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: NyloAndry
+  facebook: nylo.andrianjafy
   google:
     plus: #username
     analytics: 
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: nylo-andry
+  stackoverflow: http://stackoverflow.com/users/512868/nylo-andy
   linkedin: #username
   xing: #username
   instagram: #username
