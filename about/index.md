@@ -1,25 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About Me
+tags: []
+comments: false
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a software developer in Canada. I attended the Collège de Maisonneuve where I got my DEC and then I went to l'École de Technologie Supérieure where I got my bachelor's degree in software engineering.
 
-## Minimal Mistakes is all about:
+My last two years as a developer were almost entirely dedicated to web development. The applications I built so far are made with JavaScript, Node.js, Java and various NoSQL databases. I love new technologies and share what I learn about them. The more I learn, the more I want to share.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+In my spare time, I am a jazz musician, a cooking enthusiast, a basket-ball fan, a cinephile, a crime/mafia book reader and human.
