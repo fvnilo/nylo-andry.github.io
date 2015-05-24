@@ -3,6 +3,7 @@ layout: page
 title: About Me
 tags: []
 comments: false
+share: false
 ---
 
 I am a software developer in Canada. I attended the Collège de Maisonneuve where I got my DEC and then I went to l'École de Technologie Supérieure where I got my bachelor's degree in software engineering.
