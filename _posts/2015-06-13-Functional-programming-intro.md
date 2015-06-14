@@ -90,7 +90,7 @@ An `Option` value wraps the result and offers methods to operate on the return v
 
 A third possibility is to return a `Either` value. An `Either` is just a tuple that will hold either the result or the error.
 
-  def parseInt(s: String): Either[Exception, Int]
+    def parseInt(s: String): Either[Exception, Int]
 
 This means that the function will either return an exception (and not throw it) or the result. By convention, the result is the one on the right (based on a pun: the right value).
 
