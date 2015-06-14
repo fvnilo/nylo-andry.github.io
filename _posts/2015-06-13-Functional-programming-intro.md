@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to functional programming."
+title: "Introduction to Functional Programming."
 excerpt: "
 Functional programming is nothing new. It existed for a long time but recently became trending for its concise and declarative style. It is closer to mathematics than its counterpart, imperative programming ..."
 tags: [functional programming]
