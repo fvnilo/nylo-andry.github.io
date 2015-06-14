@@ -16,4 +16,4 @@ You may ask yourself why would you switch to functional programming. To answer t
 
 Objects are states and behavior. Every OO programmer wrote some kind of DTO with multiple properties with getters and setters. On a high-level point of view, DTOs and any classifications of objects are state machines with a virtually infinite number of possible states and transitions (you may have business rules that prevent some properties to have illegal values).
 
-![Objects as state machines](images/functional-programming/objects.png)
+![Objects as state machines](../images/functional-programming/objects.png)
