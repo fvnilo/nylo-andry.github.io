@@ -124,9 +124,9 @@ For example, here is the same Fibonnacci function in javascript without tail-rec
 
 See anything different here (beside the language) ? The last operation executed will be the addition and this is why it is not considered as a tail-recursion.
 
-## High order function
+## High-order function
 
-Functions that take functions as parameters and/or return functions are called high order functions. It is very useful to pass in custom behavior. It also allows functions to be composed. Here are a two examples that speak by themselves:
+Functions that take functions as parameters and/or return functions are called high-order functions. It is very useful to pass in custom behavior. It also allows functions to be composed. Here are a two examples that speak by themselves:
 
     val l = List(1, 2, 3, 4);
     val mapped = l.filter(e => e % 2 == 0).map(_ * 2) // Take only even numbers and multiply them by 2
