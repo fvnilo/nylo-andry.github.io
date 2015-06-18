@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pattern Matching"
-excerpt: "I have came across JavaScript projects with great structure by which I mean that were modularized neatly whether it was by using browserify, AMD or immediately invoked functions. Some of those projects used gulp.js and I was surprised to see that, in some cases, they let the `gulpfile.js` file grow and put everything in the same file. "
+excerpt: "No. This post is not about regular expressions. There is a [Wikipedia article](http://en.wikipedia.org/wiki/Regular_expression) and many more sources around the internet that will cover that subject in depth."
 tags: [web development, web components, polymer]
 comments: true
 share: true
