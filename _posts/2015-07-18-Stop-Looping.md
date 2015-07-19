@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop Looping ! Be Functional !"
+title: "Stop Looping and Be Functional!"
 excerpt: "It is a very common pattern to loop over collection and do some kind of processing on each element, but today's libraries and languages offer some nice and clean functions to write cleaner and easier to reason about code."
 tags: [practice, clean code, functional programming, scala, map, flatMap, reduce, javascript, lodash]
 comments: true
