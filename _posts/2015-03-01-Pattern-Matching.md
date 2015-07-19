@@ -2,7 +2,7 @@
 layout: post
 title: "Pattern Matching"
 excerpt: "No. This post is not about regular expressions. There is a [Wikipedia article](http://en.wikipedia.org/wiki/Regular_expression) and many more sources around the internet that will cover that subject in depth."
-tags: [functional programming, scala]
+tags: [web development, web components, polymer]
 comments: true
 share: true
 ---
