@@ -6,8 +6,6 @@ tags: [react, javascript, jsx, flux]
 comments: true
 share: true
 ---
-# The Day I Went Full React
-
 ## The First Impression
 
 It took me a while to really dive into React. It actually took me a year. Here is how it went:
