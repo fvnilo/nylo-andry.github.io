@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Steps Into Functional Programming."
+title: "First Steps Into Functional Programming"
 excerpt: "In one of my previous post, I discussed about the fundamental concepts of functional programming. Some people asked me where I think they should begin."
 tags: [functional programming]
 comments: true
