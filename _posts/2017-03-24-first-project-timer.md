@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Every time I test a new framework, I develop a timer"
+title:  "Every time I test a new framework, I write a timer app"
 date:   2017-03-24 00:00:00 -0500
 categories: development, frontend, code
 ---
@@ -8,7 +8,7 @@ I think it is safe to say that everyday, a new JavaScript framework or library i
 
 I used to want to try everything that it new in terms of front-end development in JavaScript (or any other languages) and I needed to find a way to test these frameworks I discovered.
 
-**My personal choice**: develop a timer.
+**My personal choice**: a stopwatch/timer.
 
 ![Timer](/assets/first-project-timer/clock.jpg)
 
