@@ -17,9 +17,9 @@ title: Rafanilo
 author: "Ny Fanilo Andrianjafy"
 email: ny.fanilo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Code, DevOps, Music, Philosophy, Board Games and much more.
+  Software Development For Humans. Modern Agile. Music. Photography.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rafanilo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NyloAndry
 github_username:  nylo-andry
 
