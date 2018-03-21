@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elm: My first impressions"
-date:   2017-03-24 00:00:00 -0500
+date:   2018-01-06 00:00:00 -0500
 categories: development, frontend, code
 ---
 <img class="post-header--elm" src="/assets/elm-first-impressions/elm_logo.png" />
