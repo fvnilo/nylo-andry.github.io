@@ -1,7 +1,15 @@
-version: '3'
+version: '2.4'
 services:
   site:
     build: .
     command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --incremental
+    volumes:
+      - ./_includes:/srv/jekyll/_includes
+      - ./_layouts:/srv/jekyll/_layouts
+      - ./_posts:/srv/jekyll/_posts
+      - ./assets:/srv/jekyll/assets
+      - ./_config.yml:/srv/jekyll/_config.yml
+      - ./about.md:/srv/jekyll/about.md
+      - ./index.md:/srv/jekyll/index.md
     ports:
      - "4000:4000"
