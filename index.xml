@@ -5,10 +5,20 @@
     <link>https://rafanilo.com/</link>
     <description>Recent content on Rafanilo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 12:24:18 -0500</lastBuildDate>
     
 	<atom:link href="https://rafanilo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://rafanilo.com/about/</link>
+      <pubDate>Sat, 24 Nov 2018 12:24:18 -0500</pubDate>
+      
+      <guid>https://rafanilo.com/about/</guid>
+      <description>My name is Ny Fanilo Andrianjafy, but you can call me Fan. I was born in Madagascar and I live in Canada. I am a software developer, musician, photograph and generally a curious fellow.</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rafanilo.com/about/</loc>
+    <lastmod>2018-11-24T12:24:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rafanilo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rafanilo.com/</loc>
+    <lastmod>2018-11-24T12:24:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
